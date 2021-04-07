@@ -1,7 +1,6 @@
 # Flutter UI Challenge
 
 ### Note: The latest UI challenge is in the top.
-> Creator: Qani Ajdini
 
 ## 3. [Doctor booking](https://github.com/qani-ajdini/flutter_ui_doctor_booking)
 ![Design](https://github.com/qani-ajdini/flutter_ui_doctor_booking/raw/master/image/demo.gif)
